@@ -10,3 +10,7 @@ The marquee tag in html is obsolete and not well supported by modern browsers. T
 1. npm install
 2. npm start
 3. open http://localhost:3005
+
+## Preview
+
+![](https://github.com/dp-huang/react-marquee/raw/master/src/snapshot.png) 
